@@ -1,0 +1,15 @@
+# Ignore datafiles
+*.csv
+*.exe
+*.gz
+*.pdf
+*.csv.gz
+*.sqlite
+*.zip
+*.ipynb
+/Data/
+./Data/
+Data/
+*.ipynb
+
+config.py
