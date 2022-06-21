@@ -6,10 +6,13 @@
 *.csv.gz
 *.sqlite
 *.zip
-*.ipynb
+
 /Data/
 ./Data/
 Data/
-*.ipynb
+
+/images
+images/
+./images
 
 config.py
