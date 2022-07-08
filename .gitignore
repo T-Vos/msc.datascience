@@ -16,3 +16,11 @@ images/
 ./images
 
 config.py
+
+*.png
+boxplotHierarch.png
+democ.png
+gmm.png
+kmean.png
+polity2.png
+poltiy.png
